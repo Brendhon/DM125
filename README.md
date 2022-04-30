@@ -1,26 +1,51 @@
-# DM125
+<h1 align="center">DM125</h1>
 
-Projetos realizado para colocar em prática os conhecimentos adquiridos na disciplina de **DM125** (Desenvolvimento de aplicativos em Kotlin para Android com Firebase) durante a pós-graduação em Desenvolvimento de aplicações para dispositivos móveis e Cloud Computing pelo [Inatel](https://inatel.br/home/).
+## 👇 Sobre o projeto
 
-## Tecnologias
-* [Kotlin](https://kotlinlang.org/)
+Projetos realizados para colocar em prática os conhecimentos adquiridos na disciplina de **DM125** (Desenvolvimento de aplicativos em Kotlin para Android com Firebase) durante a pós-graduação em Desenvolvimento de aplicações para dispositivos móveis e Cloud Computing pelo [Inatel](https://inatel.br/home/).
 
-## Como usar?
+---
 
-### Requisitos
- * Java 8
- * Android Studio
- 
-#### Obs
- * Certifique-se de ter todas as variáveis de ambiente configuradas
- 
-#### Clone
+## 💻 Tecnologias
+
+As seguintes tecnologias foram utilizadas na construção do projeto:
+
+- **[Kotlin](https://kotlinlang.org/)**
+
+### Utilitários
+- Editor: **[Android Studio](https://developer.android.com/studio/)**
+
+---
+
+## 👨‍💻 Como executar o projeto
+
+### 💡 Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+**[Git](https://git-scm.com)** e **[Java 8](https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.html)**.
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/Brendhon/DM125.git
 ```
-git clone https://github.com/Brendhon/DM125.git
-```
 
-Execute o Android Studio e abra o diretoria na plataforma.
+Com isso o projeto já estará pronto para ser executado.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+### ⚽ Rodando
 
+Execute o Android Studio e abra o diretório da pasta na plataforma.
+
+---
+
+## 👥 Autor
+<img style="border-radius: 20%;" src="https://github.com/brendhon.png" width="120px;" alt="autor"/><br>
+**Brendhon Moreira**
+
+[![Linkedin Badge](https://img.shields.io/badge/-Brendhon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brendhon-moreira)](https://www.linkedin.com/in/brendhon-moreira)
+[![Gmail Badge](https://img.shields.io/badge/-brendhon.e.c.m@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brendhon.e.c.m@gmail.com)](mailto:brendhon.e.c.m@gmail.com)
+
+---
+## 📝 License
+[![License](https://img.shields.io/apm/l/vim-mode?color=blue)](http://badges.mit-license.org)
+
+- **[MIT license](https://choosealicense.com/licenses/mit/)**
