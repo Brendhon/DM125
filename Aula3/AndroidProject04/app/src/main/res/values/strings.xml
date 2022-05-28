@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidProject04</string>
+    <string name="sign_out">Sign out</string>
+    <string name="delete_product">Delete product</string>
+</resources>

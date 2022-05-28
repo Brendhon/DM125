@@ -11,6 +11,7 @@ Projetos realizados para colocar em prática os conhecimentos adquiridos na disc
 As seguintes tecnologias foram utilizadas na construção do projeto:
 
 - **[Kotlin](https://kotlinlang.org/)**
+- **[Firebase](https://firebase.google.com/)**
 
 ### Utilitários
 - Editor: **[Android Studio](https://developer.android.com/studio/)**
@@ -23,6 +24,8 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 **[Git](https://git-scm.com)** e **[Java 8](https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.html)**.
+
+OBS: Caso esteja rodando o projeto da aula 3, é necessário criar e configurar um projeto firebase.
 
 ```bash
 # Clone este repositório
